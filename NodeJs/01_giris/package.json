@@ -1,0 +1,12 @@
+{
+  "name": "01_giris",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "yeni":"deneme yazisi"
+  },
+  "author": "",
+  "license": "ISC"
+}
